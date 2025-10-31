@@ -1,0 +1,22 @@
+{
+  "name": "discord-economy-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord Game Economy dengan Slash Commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.6",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["discord", "bot", "economy", "game", "slash-commands"],
+  "author": "Natakenshi Dev",
+  "license": "MIT"
+}
