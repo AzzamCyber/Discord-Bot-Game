@@ -1,12 +1,12 @@
 module.exports = {
   // Ganti dengan token bot Anda
-  BOT_TOKEN: "MTQzMzcxMTEzOTc0MDQ1MDgxOA.GxODZ0.4IxLGHhnxLzBkscAzasp9Tt3gUtNKfFf4KrUs4",
+  BOT_TOKEN: "",
   
   // Client ID bot Anda
-  CLIENT_ID: "1433711139740450818",
+  CLIENT_ID: "",
   
   // User ID khusus yang dapat bonus
-  SPECIAL_USER_ID: "1433676167554011166",
+  SPECIAL_USER_ID: "",
   
   // Footer configuration
   FOOTER: {
